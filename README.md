@@ -54,7 +54,7 @@ python main.py
 npm install
 npm run dev
 ```
-前端开发服务器默认运行在 `http://localhost:5173`。
+前端开发服务器默认运行在 `http://localhost:50001`。
 
 ## 🛠️ 技术栈
 
