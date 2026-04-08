@@ -30,7 +30,7 @@ function App() {
       const formData = new FormData()
       formData.append('file', file)
 
-      const response = await fetch('http://127.0.0.1:8001/api/recognize', {
+      const response = await fetch('http://127.0.0.1:60001/api/recognize', {
         method: 'POST',
         body: formData,
       })

@@ -44,7 +44,7 @@ python download_models.py
 ```bash
 python main.py
 ```
-后端服务默认运行在 `http://localhost:8000`。
+后端服务默认运行在 `http://localhost:60001`。
 
 ### 3. 前端部署 (Node.js 18+)
 
