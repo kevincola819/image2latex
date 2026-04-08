@@ -14,7 +14,7 @@ Img2LaTeX 是一个基于深度学习的图片转 LaTeX 工具，它可以将包
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/img2latex.git
+git clone https://github.com/kevincola819/img2latex.git
 cd img2latex
 ```
 
